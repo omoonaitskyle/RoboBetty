@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_not_pressed">#FF0000</color>
+    <color name="red_pressed">#FF4C4C</color>
+
+    <color name="green_not_pressed">#49D256</color>
+    <color name="green_pressed">#7fdf88</color>
+
+</resources>
